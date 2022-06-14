@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @vituhdograu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, eu sou @vituhdograu
+- 👀 Estou interessado em Programação
+- 🌱 Estou aprendendo Pensamento Computacional
+- 📫 Contato victor.zampollo.paiva@escola.pr.gov.br
 
-<!---
-vituhdograu/vituhdograu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Iniciante No GitHub |
